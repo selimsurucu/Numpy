@@ -1,2 +1,3 @@
-# numpy
-numpy Çalışmaları
+# Numpy
+Numpy öğrenme aşamasındaki çalışma notlarını içermektedir.
+
