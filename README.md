@@ -1,8 +1,8 @@
 # Numpy
-Numpy öğrenme aşamasındaki çalışma notlarını içermektedir.
-Çalışmalarda Colab kullanılmıştır.
+Başlangıç düzeyde python bilgisi olanlar için oluşturulmuş hızlı bir şekilde Numpy kütüphanesi öğrenebileceği notlar yer almaktadır.
+Çalışmalarda Colab kullanılmıştır. 
 
-Her türlü iletişim için :
+İletişim için :
 selimsurucuu@gmail.com adresine mail atabilirsiniz.
 
 Soru, öneri ve görüşlerinizi yazarsanız sevinirim.
